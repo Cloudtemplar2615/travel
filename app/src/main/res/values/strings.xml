@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Travel Journal</string>
+    <string name="add_trip">Add Trip</string>
+    <string name="save_trip">Save Trip</string>
+    <string name="destination">Destination</string>
+    <string name="date">Date</string>
+    <string name="notes">Notes</string>
+    <string name="tags">Tags</string>
+    <string name="trip_saved">Trip Saved!</string>
+    <string name="fill_required_fields">Please fill out required fields</string>
+    <string name="destination_with_placeholder">Destination: %1$s</string>
+    <string name="date_with_placeholder">Date: %1$s</string>
+    <string name="notes_with_placeholder">Notes: %1$s</string>
+    <string name="tags_with_placeholder">Tags: %1$s</string>
+    <string name="fab_description">Add new trip</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="sort_options">
+        <item>Sort by Date</item>
+        <item>Sort by Destination</item>
+    </string-array>
+
+</resources>
